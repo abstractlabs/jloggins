@@ -1,0 +1,35 @@
+{
+    "name": "jloggins",
+    "title": "JLoggins",
+    "description": "jQuery plugin for console logging",
+    "keywords": [
+        "logging",
+        "log",
+        "diagnostics"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "AbstractLabs",
+        "url": "https://github.com/abstractlabs/jloggins/readme.md"
+    },
+    "maintainers": [
+        {
+            "name": "Scott Wood",
+            "email": "jloggins@abstractlabs.net",
+            "url": "http://abstractlabs.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/abstractlabs/jloggins/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/abstractlabs/jloggins/issues",
+    "homepage": "https://github.com/abstractlabs/jloggins",
+    "docs": "https://github.com/abstractlabs/jloggins",
+    "download": "https://github.com/abstractlabs/jloggins",
+    "dependencies": {
+        "jquery": ">=2.0"
+    }
+}
