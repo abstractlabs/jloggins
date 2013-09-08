@@ -3,6 +3,7 @@
     "title": "JLoggins",
     "description": "jQuery plugin for console logging",
     "keywords": [
+        "jquery",
         "logging",
         "log",
         "diagnostics"
