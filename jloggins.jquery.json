@@ -28,7 +28,7 @@
     "bugs": "https://github.com/abstractlabs/jloggins/issues",
     "homepage": "https://github.com/abstractlabs/jloggins",
     "docs": "https://github.com/abstractlabs/jloggins",
-    "download": "https://github.com/abstractlabs/jloggins",
+    "download": "https://raw.github.com/abstractlabs/jloggins/master/jquery.jloggins.1.0.0.js",
     "dependencies": {
         "jquery": ">=2.0"
     }
