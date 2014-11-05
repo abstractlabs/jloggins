@@ -8,7 +8,7 @@
         "log",
         "diagnostics"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "AbstractLabs",
         "url": "https://github.com/abstractlabs/jloggins/readme.md"
@@ -29,7 +29,7 @@
     "bugs": "https://github.com/abstractlabs/jloggins/issues",
     "homepage": "https://github.com/abstractlabs/jloggins",
     "docs": "https://github.com/abstractlabs/jloggins",
-    "download": "https://raw.github.com/abstractlabs/jloggins/master/jquery.jloggins.1.0.0.js",
+    "download": "https://raw.github.com/abstractlabs/jloggins/master/jquery.jloggins.1.0.1.js",
     "dependencies": {
         "jquery": ">=2.0"
     }
